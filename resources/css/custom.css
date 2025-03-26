@@ -1,0 +1,14 @@
+body {
+    background-color: #f9fafb;
+}
+.navbar {
+    background-color: #28a745;
+}
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+.btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+}
